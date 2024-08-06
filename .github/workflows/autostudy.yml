@@ -2,7 +2,7 @@ name: AutoStudy
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '*/15 * * * *'
 
 jobs:
   study:
